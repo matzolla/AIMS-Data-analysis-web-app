@@ -5,5 +5,4 @@ to work easily on this project, i followed the steps below:
 2. The packages used for this project is provided in the **requirement.txt** file
 3. Further updates will be done on this project
 4. i used the official https://www.streamlit.io/ web site to find ideas and work on this project.
-
-![Alt text](/relative/path/to/data.PNG?raw=true "Optional Title")
+![Alt text](matzolla/AIMS-Data-analysis-web-app/data.PNG?raw=true "Optional Title")
