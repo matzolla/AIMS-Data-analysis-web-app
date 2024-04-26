@@ -1,6 +1,6 @@
 
-#the app is built to mainly explore data on a web browser available for each aims-cameroon student...
-#name of app: AIMS-instat
+# the app is built to mainly explore data on a web browser available for each aims-cameroon student...
+# name of app: AIMS-instat
 import streamlit as st
 import os
 from os.path import splitext
